@@ -1,6 +1,6 @@
 cask "appmixer" do
-  version "1.0.0"
-  sha256 "0467de81883e774c7c8323257f57b68c0914a0516070d3975de4fc9c289160f8"
+  version "1.0.1"
+  sha256 "f702ece0563fcffc661819c3b0d9cb47cb71005a2ce1c00f0701911d1039c4e3"
 
   url "https://github.com/bbioren/AppMixer/releases/download/v#{version}/AppMixer-#{version}.dmg"
   name "AppMixer"
